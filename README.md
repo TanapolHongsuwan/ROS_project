@@ -38,20 +38,20 @@ The code will works with the requirements below.
 		$ git clone https://github.com/TanapolHongsuwan/ROS_project.git
        
 		$ cd ROS_project
+
+2. In a new terminal, perform
 		
-2. Perform '$ catkin_make'
+		$ roscore
+		
+3. Perform '$ catkin_make'
 
 		$ cd ..
 		
 		$ cd catkin_make
        
-3. In a new terminal, perform
-		
-		$ roscore
-       
-4. Move to the ??? file, make, install modules, and change permissions
+4. Move to the scripts file, make, install modules, and change permissions
 
-		$ cd src/ros_led/scripts/led
+		$ cd src/wave/scripts/
 		
 		$ bash setup.bash
 		
