@@ -6,6 +6,7 @@
 * Project status: Completed
 
 Youtube video: [link](https://www.youtube.com/watch?v=sAakLz_z0dI&ab_channel=TanapolHongsuwan)
+*Note: I do not owned the song on the video (no copyright)
 
 ## Table of contents
 
@@ -17,6 +18,7 @@ Youtube video: [link](https://www.youtube.com/watch?v=sAakLz_z0dI&ab_channel=Tan
     * [Run](#run)
   * [About the Project](#about-the-project)
   * [Preference](#preference)
+  * [Special Thanks](#special-thanks)
   * [License](#license)
   
 ## Code
@@ -32,6 +34,7 @@ Youtube video: [link](https://www.youtube.com/watch?v=sAakLz_z0dI&ab_channel=Tan
 
   * Ubuntu 18.04
   * ROS
+  * Speaker
   
 #### Pakages Installation
 
@@ -102,6 +105,14 @@ This is my first project using ROS (ROS1) recorded sound, learning about Publish
 [Programming Robots with ROS: A Practical Introduction to the Robot Operating System, by Morgan Quigley, Brian Gerkey, William D. Smart](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898)
 
 [Playing and Recordding Sound in Python](https://realpython.com/playing-and-recording-sound-python/)
+
+## Special Thanks
+
+I do appreciate to "Magic Music" channel on Youtube for the music (no copyright)
+
+[Channel on Youtube](https://www.youtube.com/channel/UCp6_KuNhT0kcFk-jXw9Tivg)
+
+[Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep (The music in the video](https://www.youtube.com/watch?v=LaQj636PJh0&t=1940s&ab_channel=MagicMusic)
 
 ## License
 
