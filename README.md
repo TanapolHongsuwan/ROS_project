@@ -35,13 +35,21 @@ Youtube video: [link]()
   
 #### Pakages Installation
 
-  * Python pip - `$ apt install python-pip`
+  * Python pip 
   
-  * sounddevice lib - `$ sudo apt-get install libportaudio2`
-  		    - `$ sudo apt-get install libasound-dev`
+  		$ apt install python-pip
+  
+  * sounddevice lib
+  
+  		$ sudo apt-get install libportaudio2
+  		
+		$ sudo apt-get install libasound-dev
 		    
-  * spicy - `$ sudo apt-get install python-scipy`
-  	  - `$ pip install scipy`
+  * spicy
+  		
+		$ sudo apt-get install python-scipy
+  
+  		$ pip install scipy
   
 ### Build
 
