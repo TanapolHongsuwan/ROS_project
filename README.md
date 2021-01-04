@@ -2,8 +2,8 @@
 
 ## About / Synopsis
 
-* This project is for ??? in Linux platform using Python.
-* Project status: processing
+* This project is for recording sound in Linux platform using array in Python.
+* Project status: Completed
 
 Youtube video: [link]()
 
@@ -21,7 +21,7 @@ Youtube video: [link]()
   
 ## Code
 
-* Code (Publisher): [link]()
+* Code (Publisher): [link](https://github.com/TanapolHongsuwan/ROS_project/blob/main/topic_publisher.py)
 * Code (Subscriber): [link]()
 * CMakeLists.txt: [link]()
 * package.xml: [link]()
