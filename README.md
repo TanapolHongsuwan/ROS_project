@@ -2,7 +2,7 @@
 
 ## About / Synopsis
 
-* This project is for recording sound in Linux platform using array in Python.
+* This project is for recording sound and repeat again with Python on ROS.
 * Project status: Completed
 
 Youtube video: [link]()
