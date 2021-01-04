@@ -6,7 +6,7 @@
 * Project status: Completed
 
 Youtube video: [link](https://www.youtube.com/watch?v=sAakLz_z0dI&ab_channel=TanapolHongsuwan)
-* Note: I do not owned the song on the video (no copyright)
+* Note: I do not owned the music in the video (no copyright)
 
 ## Table of contents
 
