@@ -21,14 +21,16 @@ Youtube video: [link]()
   
 ## Code
 
-* Code: [link]()
+* Code (Publisher): [link]()
+* Code (Subscriber): [link]()
 * CMakeLists.txt: [link]()
+* package.xml: [link]()
 
 ### Requirements
 
-The code will works with the requirements below.
+The code works with the requirements below.
 
-  * Ubuntu 20.04
+  * Ubuntu 18.04
   * ROS
   
 ### Build
@@ -51,20 +53,20 @@ The code will works with the requirements below.
        
 4. Move to the scripts file, make, install modules, and change permissions
 
-		$ cd src/wave/scripts/
-		
-		$ bash setup.bash
+		$ cd src/project2/
 		
 5. Set the permission
 
-		$ bash permission.bash
+		$ sudo chmod u+x topic_publisher.py
+		
+		$ sudo chmod u+x topic_subscriber.py
   
 ### Run
 
   
 ## About the Project
 
-This is my first project using ROS (ROS1) with Raspberry Pi based on Prof. Ryuichi Ueda's template code, learning about Publisher and Subscriber on Ubuntu. Hopefully, the template would be useful somehow in a next ROS project in the future.
+This is my first project using ROS (ROS1) recorded sound based on Prof. Ryuichi Ueda's template code, learning about Publisher and Subscriber on Ubuntu. Hopefully, the template would be useful somehow in a next ROS project in the future.
 
 ## Preference
 
