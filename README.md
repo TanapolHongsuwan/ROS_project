@@ -112,7 +112,7 @@ I do appreciate to "Magic Music" channel on Youtube for the music (no copyright)
 
 [Channel on Youtube](https://www.youtube.com/channel/UCp6_KuNhT0kcFk-jXw9Tivg)
 
-[Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep (The music in the video](https://www.youtube.com/watch?v=LaQj636PJh0&t=1940s&ab_channel=MagicMusic)
+[Best Music Mix ♫ No Copyright EDM ♫ Gaming Music Trap, House, Dubstep (The music in the video)](https://www.youtube.com/watch?v=LaQj636PJh0&t=1940s&ab_channel=MagicMusic)
 
 ## License
 
