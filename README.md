@@ -81,7 +81,7 @@ Youtube video: [link]()
   
 ### Run
 
-<img src="![c2c69c5c9377fe00440802de0b949ccd](https://user-images.githubusercontent.com/67133469/103495842-00959100-4e34-11eb-90e0-7ccfd0039fb4.png)" width = "500">
+<img src="![image (1)](https://user-images.githubusercontent.com/67133469/103528268-fec8dd80-4ec6-11eb-984a-28a0483e4ce1.jpg)" width = "500">
 
 1. Based on the video ([link]()), after we perform `$ roscore`, move to the project2 file and perform `$ rosrun project2 topic_subscriber.py` to stand by and receiving the signal from the publisher.
 
