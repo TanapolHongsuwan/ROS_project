@@ -39,13 +39,13 @@ Youtube video: [link]()
   
   		$ apt install python-pip
   
-  * sounddevice lib
+  * sounddevice library
   
   		$ sudo apt-get install libportaudio2
   		
 		$ sudo apt-get install libasound-dev
 		    
-  * spicy
+  * SciPy
   		
 		$ sudo apt-get install python-scipy
   
@@ -98,6 +98,8 @@ This is my first project using ROS (ROS1) recorded sound based on Prof. Ryuichi 
 [Robot System's lecture 10 (Japanese)](https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)
 
 [Programming Robots with ROS: A Practical Introduction to the Robot Operating System, by Morgan Quigley, Brian Gerkey, William D. Smart](https://www.amazon.com/Programming-Robots-ROS-Practical-Introduction/dp/1449323898)
+
+[Playing and Recordding Sound in Python](https://realpython.com/playing-and-recording-sound-python/)
 
 ## License
 
