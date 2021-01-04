@@ -53,27 +53,31 @@ Youtube video: [link]()
   
 ### Build
 
-1. First of all, clone this repository with the following command.
+1. Go to catkin_ws/src file
+
+		$ cd catkin_ws/src
+
+2. First of all, clone this repository with the following command.
 
 		$ git clone https://github.com/TanapolHongsuwan/ROS_recorder.git
        
 		$ cd ROS_recorder
 
-2. In a new terminal, perform.
+3. In a new terminal, perform.
 		
 		$ roscore
 		
-3. Perform '$ catkin_make'.
+4. Perform '$ catkin_make'.
 
 		$ cd ..
 		
 		$ cd catkin_make
        
-4. Move to the scripts file.
+5. Go to the scripts file.
 
 		$ cd src/project2/scripts
 		
-5. Set the permission for the publisher andd the subscriber program.
+6. Set the permission for the publisher andd the subscriber program.
 
 		$ bash permissions.bash
 		
