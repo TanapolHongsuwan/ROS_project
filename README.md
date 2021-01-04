@@ -93,7 +93,7 @@ Youtube video: [link]()
 
 ## About the Project
 
-This is my first project using ROS (ROS1) recorded sound based on Prof. Ryuichi Ueda's template code, learning about Publisher and Subscriber on Ubuntu. Hopefully, the template would be useful somehow in a next ROS project in the future.
+This is my first project using ROS (ROS1) recorded sound, learning about Publisher and Subscriber on Ubuntu. Hopefully, the template would be useful somehow in a next ROS project in the future.
 
 ## Preference
 
