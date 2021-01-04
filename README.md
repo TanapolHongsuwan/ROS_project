@@ -59,26 +59,24 @@ Youtube video: [link]()
        
 		$ cd ROS_recorder
 
-2. In a new terminal, perform
+2. In a new terminal, perform.
 		
 		$ roscore
 		
-3. Perform '$ catkin_make'
+3. Perform '$ catkin_make'.
 
 		$ cd ..
 		
 		$ cd catkin_make
        
-4. Move to the project2 file, make, install modules, and change permissions
+4. Move to the scripts file.
 
-		$ cd src/project2/
+		$ cd src/project2/scripts
 		
-5. Set the permission
+5. Set the permission for the publisher andd the subscriber program.
 
-		$ sudo chmod u+x topic_publisher.py
+		$ bash permissions.bash
 		
-		$ sudo chmod u+x topic_subscriber.py
-  
 ### Run
 
 <img src="https://user-images.githubusercontent.com/67133469/103528563-87e01480-4ec7-11eb-80ab-092e47fa698b.jpg" width = "500">
