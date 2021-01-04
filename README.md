@@ -28,10 +28,20 @@ Youtube video: [link]()
 
 ### Requirements
 
-The code works with the requirements below.
+#### Environment
 
   * Ubuntu 18.04
   * ROS
+  
+#### Pakages Installation
+
+  * Python pip - `$ apt install python-pip`
+  
+  * sounddevice lib - `$ sudo apt-get install libportaudio2`
+  		    - `$ sudo apt-get install libasound-dev`
+		    
+  * spicy - `$ sudo apt-get install python-scipy`
+  	  - `$ pip install scipy`
   
 ### Build
 
@@ -51,7 +61,7 @@ The code works with the requirements below.
 		
 		$ cd catkin_make
        
-4. Move to the scripts file, make, install modules, and change permissions
+4. Move to the project2 file, make, install modules, and change permissions
 
 		$ cd src/project2/
 		
@@ -63,6 +73,9 @@ The code works with the requirements below.
   
 ### Run
 
+1. Based on the video ([link]()), after we perform `$ roscore`, move to the project2 file and perform `$ rosrun project2 topic_subscriber.py` to stand by receiving the signal from the publisher.
+
+2. 
   
 ## About the Project
 
