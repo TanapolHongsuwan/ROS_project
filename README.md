@@ -47,7 +47,7 @@ Youtube video: [link]()
 
 1. First of all, clone this repository with the following command.
 
-		$ git clone https://github.com/TanapolHongsuwan/ROS_project.git
+		$ git clone https://github.com/TanapolHongsuwan/ROS_recorder.git
        
 		$ cd ROS_project
 
